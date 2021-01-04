@@ -44,6 +44,7 @@ form input{
     display: inline-block;
     border: solid 2px #F64C72;
     padding: 4px;
+    background-color: white;
 }
 
 .inputSmall{
