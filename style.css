@@ -98,7 +98,7 @@ footer{
 footer span a {
     text-decoration: none;
     color: white;
-    padding: 20px;
+    padding: 0px 10px;
     font-weight: bold;
     font-size: large;
 }
